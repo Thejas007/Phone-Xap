@@ -1,0 +1,30 @@
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\Bin\Release\ApplicationIcon.png
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\Bin\Release\Background.png
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\Bin\Release\TextEditor.dll
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\Bin\Release\TextEditor.pdb
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\Bin\Release\AppManifest.xaml
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\Bin\Release\TextEditor.xap
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\obj\Release\ResolveAssemblyReference.cache
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\obj\Release\App.g.i.cs
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\obj\Release\MainPage.g.i.cs
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\obj\Release\OpenPage.g.i.cs
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\obj\Release\SavePage.g.i.cs
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\obj\Release\TextEditor.g.resources
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\obj\Release\TextEditor.dll
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\obj\Release\TextEditor.pdb
+G:\DAP DOWNLOADS\Software & Archives\wp7tut4code\TextEditor\obj\Release\XapCacheFile.xml
+E:\Windows phone applications\TextEditor\TextEditor\Bin\Release\ApplicationIcon.png
+E:\Windows phone applications\TextEditor\TextEditor\Bin\Release\Background.png
+E:\Windows phone applications\TextEditor\TextEditor\Bin\Release\TextEditor.dll
+E:\Windows phone applications\TextEditor\TextEditor\Bin\Release\TextEditor.pdb
+E:\Windows phone applications\TextEditor\TextEditor\Bin\Release\AppManifest.xaml
+E:\Windows phone applications\TextEditor\TextEditor\Bin\Release\TextEditor.xap
+E:\Windows phone applications\TextEditor\TextEditor\obj\Release\ResolveAssemblyReference.cache
+E:\Windows phone applications\TextEditor\TextEditor\obj\Release\App.g.i.cs
+E:\Windows phone applications\TextEditor\TextEditor\obj\Release\MainPage.g.i.cs
+E:\Windows phone applications\TextEditor\TextEditor\obj\Release\OpenPage.g.i.cs
+E:\Windows phone applications\TextEditor\TextEditor\obj\Release\SavePage.g.i.cs
+E:\Windows phone applications\TextEditor\TextEditor\obj\Release\TextEditor.g.resources
+E:\Windows phone applications\TextEditor\TextEditor\obj\Release\TextEditor.dll
+E:\Windows phone applications\TextEditor\TextEditor\obj\Release\TextEditor.pdb
+E:\Windows phone applications\TextEditor\TextEditor\obj\Release\XapCacheFile.xml
